@@ -1,2 +1,2 @@
-# IntellectX
+# IntellectX: Democratizing access to AI technology and English education.
 iOS application built using SwiftUI, data visualization, analytics, and machine learning algorithms based from a user's local data. The application was integrated to 150+ students at Yeti Educational Academy in Ulaanbaatar, Mongolia (woohoo!! 🥳) and presented to United States Representatives and Senators in Washington D.C. (best presentation experience i have to say, everyone was so welcoming 😌) as a first place winner for the 2022 Congressional App Challenge.
